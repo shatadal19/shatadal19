@@ -12,6 +12,7 @@ How to reach me shatadalb19@gmail.com.
 <a href="https://twitter.com/shatadalb19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shatadalb19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shatadal-biswas-221a25265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shatadal-biswas-221a25265" height="30" width="40" /></a>
 <a href="https://fb.com/shatadalb199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shatadalb199" height="30" width="40" /></a>
+<a href="https://instagram.com/been_shatadal19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="been_shatadal19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
