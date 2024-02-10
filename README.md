@@ -1,12 +1,6 @@
 <h1 align="center">Hi, This Is Shatadal Biswas</h1>
 <h3 align="center">A passionate software & Web developer</h3>
 <img  align="right" alt="codding" width="400"src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-
-I’m currently learning: HTML,CSS,JS.
-<br>
-
-How to reach me shatadalb19@gmail.com.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shatadalb19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shatadalb19" height="30" width="40" /></a>
