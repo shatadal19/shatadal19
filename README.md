@@ -22,6 +22,7 @@ How to reach me shatadalb19@gmail.com.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shatadal19&show_icons=true&locale=en&layout=compact" alt="shatadal19" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatadal19&show_icons=true&locale=en" alt="shatadal19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shatadal19&" alt="shatadal19" /></p>
+
